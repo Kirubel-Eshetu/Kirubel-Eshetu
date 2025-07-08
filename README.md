@@ -26,13 +26,14 @@
 
 # 📫 Ways to reach me
 
-<a href = "mailto: emailkirubelwinner@gmail.com" target="_blank"><img src = "https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/email.png" alt =  "Email icon" style="width: 50px; height: 50px;"></a> 
-<a href ="https://www.linkedin.com/in/kirubel-eshetu-tefera" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Linkedln.png" alt = "LinkedIn icon" style="width: 45px; height: 45px;"></a> 
-<a href ="https://t.me/BrightLife23" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Telegram%20icon.png" alt = "Telegram icon" style="width: 50px; height: 50px;"></a> 
-<a href = "https://facebook.com/Kirubel23" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Facebook.png" alt="Facebook icon" style="width: 50px; height: 50px;"></a>
-<a href ="https://www.instagram.com/young_kira23?igsh=MXJtcHJzMXQ0mUydA==" target="_blank"><img src = "https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Instagram.png" alt="Instagram icon" style="width: 50px; height: 50px;"></a>
+<a href = "mailto: kirubelwinner@gmail.com" target="_blank"><img src = "https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/email.png" alt =  "Email icon" style="width: 50px; height: 50px;"></a> 
+<a href = "https://facebook.com/KirubelEshetuTefera/" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Facebook.png" alt="Facebook icon" style="width: 50px; height: 50px;"></a>
+<a href ="https://www.linkedin.com/in/kirubel-eshetu-tefera/" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Linkedln.png" alt = "LinkedIn icon" style="width: 45px; height: 45px;"></a>
+<a href ="https://www.instagram.com/kirubeleshetutefera/" target="_blank"><img src = "https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Instagram.png" alt="Instagram icon" style="width: 50px; height: 50px;"></a>
+<a href ="https://t.me/KirubelEshetu" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Telegram%20icon.png" alt = "Telegram icon" style="width: 50px; height: 50px;"></a> 
 <a href ="https://wa.me/251939806607" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/whatsapp_logo.png" alt="WhatsApp icon" style="width: 50px; height: 50px;"></a>
-<a href ="https://www.twitter.com/KirubelLegacy23" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/X.jpeg" alt="X logo" style="width: 50px; height: 50px;"></a>
+<a href ="https://x.com/KirubelEshetuTe" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/X.jpeg" alt="X logo" style="width: 50px; height: 50px;"></a>
+<a href = "https://www.youtube.com/@KirubelEshetuTefera" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Youtube_logo.png" alt="YouTube logo" style="width: 50px; height: 45px;"></a>
 
 # 👨‍💻 Languages, Frameworks & Tools (Learnt so far)
 
