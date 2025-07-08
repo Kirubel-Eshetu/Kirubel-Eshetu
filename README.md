@@ -17,7 +17,7 @@
 - 🗣 Lastly I would like to say "I am a very junior person in the tech-industry. Please don't mind if you see silly codes all over my GitHub, <br> 🤚🏾 or I discuss with you on very basic issues. <br> 🤞🏾 I am trying my very best everyday, to be better than my yesterday." 🍀
 
 <div align = "center">
-  <a href="https://t.me/KiraFix_tech"><img src = "https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="100%" height="500px"></a>
+  <a href="https://t.me/KiraFix_tech"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="100%" height="500px"></a>
 </div>
 <br>
 <div align = "center">
@@ -32,6 +32,7 @@
 <a href ="https://www.instagram.com/kirubeleshetutefera/" target="_blank"><img src = "https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Instagram.png" alt="Instagram icon" style="width: 50px; height: 50px;"></a>
 <a href ="https://t.me/KirubelEshetu" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Telegram%20icon.png" alt = "Telegram icon" style="width: 50px; height: 50px;"></a> 
 <a href ="https://wa.me/251939806607" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/whatsapp_logo.png" alt="WhatsApp icon" style="width: 50px; height: 50px;"></a>
+<a href ="https://www.tiktok.com/@kirubeleshetu23" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/TikTok_Logo.png" alt="WhatsApp icon" style="width: 55px; height: 55px;"></a>
 <a href ="https://x.com/KirubelEshetuTe" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/X.jpeg" alt="X logo" style="width: 50px; height: 50px;"></a>
 <a href = "https://www.youtube.com/@KirubelEshetuTefera" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Youtube_logo.png" alt="YouTube logo" style="width: 50px; height: 45px;"></a>
 
