@@ -24,12 +24,14 @@
   <img src = "https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Gospel.gif" alt = "John 14:6" width = "100%" height = "500px">
 </div>
 
-# 📫 Ways to reach me
+# 📫 Love to connect with you on
 
-<a href = "mailto: kirubelwinner@gmail.com" target="_blank"><img src = "https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/email.png" alt =  "Email icon" style="width: 50px; height: 50px;"></a> 
+<a href = "mailto: kirubelwinner@gmail.com" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/email.png" alt =  "Email icon" style="width: 50px; height: 50px;"></a> 
+<a href = "http://discordapp.com/users/1146506216084865065" target="_blank"><img src = "https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Discord_Logo.webp" alt = "Discord Logo" style="width: 55px; height: 55px;"></a>
 <a href = "https://facebook.com/KirubelEshetuTefera/" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Facebook.png" alt="Facebook icon" style="width: 50px; height: 50px;"></a>
 <a href ="https://www.linkedin.com/in/kirubel-eshetu-tefera/" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Linkedln.png" alt = "LinkedIn icon" style="width: 45px; height: 45px;"></a>
 <a href ="https://www.instagram.com/kirubeleshetutefera/" target="_blank"><img src = "https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Instagram.png" alt="Instagram icon" style="width: 50px; height: 50px;"></a>
+<a href = "" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Reddit_Logo%20copy.webp" alt="Reddit Logo" alt="Reddit Logo" style="width: 50px; height: 50px;"></a>
 <a href ="https://t.me/KirubelEshetu" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Telegram%20icon.png" alt = "Telegram icon" style="width: 50px; height: 50px;"></a> 
 <a href ="https://wa.me/251939806607" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/whatsapp_logo.png" alt="WhatsApp icon" style="width: 50px; height: 50px;"></a>
 <a href ="https://www.tiktok.com/@kirubeleshetu23" target="_blank"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/TikTok_Logo.png" alt="WhatsApp icon" style="width: 55px; height: 55px;"></a>
