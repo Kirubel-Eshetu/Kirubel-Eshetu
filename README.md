@@ -71,11 +71,6 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kirubel-Eshetu&theme=radical) </div>
 
-<div width="100%" align="center"><p style ="color: fe428e">Top Repositories</p>
-<a href="https://github.com/Kirubel-Eshetu/CV-Kirubel-Eshetu" align="right" target="_blank" referrerpolicy="no-referrer"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kirubel-Eshetu&repo=CV&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
-<a href="https://github.com/Kirubel-Eshetu/Scientific_Calculator" align="left" target="_blank" referrerpolicy="no-referrer"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kirubel-Eshetu&repo=Scientific_Calculator&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
-<a href = "https://github.com/Kirubel-Eshetu/Tic-Tac-Toe-Web-Application" align="right" target="_blank" referrerpolicy="no-referrer"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kirubel-Eshetu&repo=Tic-Tac-Toe-Web-Application&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kirubel-Eshetu&theme=radical)](https://git.io/streak-stats)</div>
 
 
