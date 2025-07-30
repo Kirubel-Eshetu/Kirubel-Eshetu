@@ -14,7 +14,7 @@
 - 💻 Currently spending time on computers to improve my skills as a developer.
 - I would also love it if you invite me to typing competitions. 🤼🤼
 - ⚡️ Fun fact about me 😁: I am very much into the military world.🎖
-- 🗣 Lastly I would like to say "I am a very junior person in the tech-industry. Please don't mind if you see silly codes all over my GitHub, <br> 🤚🏾 or I discuss with you on very basic issues. <br> 🤞🏾 I am trying my very best everyday, to be better than my yesterday." 🍀
+- 🗣 Lastly I would like to say "I am a very junior person in the tech-industry. I am trying my very best everyday, to be better than my yesterday." 🍀
 
 <div align = "center">
   <a href="https://t.me/KiraFix_tech" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="100%" height="500px"></a>
