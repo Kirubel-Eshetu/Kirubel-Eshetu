@@ -34,7 +34,7 @@
 <a href = "https://www.reddit.com/user/Kirubel_Eshetu/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Reddit_Logo%20copy.webp" alt="Reddit Logo" alt="Reddit Logo" style="width: 50px; height: 50px;"></a>
 <a href ="https://t.me/KirubelEshetu" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Telegram%20icon.png" alt = "Telegram icon" style="width: 50px; height: 50px;"></a> 
 <a href ="https://wa.me/251939806607" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/whatsapp_logo.png" alt="WhatsApp icon" style="width: 50px; height: 50px;"></a>
-<a href ="https://www.tiktok.com/@kirubeleshetu23" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/TikTok_Logo.png" alt="WhatsApp icon" style="width: 55px; height: 55px;"></a>
+<a href ="https://www.tiktok.com/@kirubeleshetutefera" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/TikTok_Logo.png" alt="WhatsApp icon" style="width: 55px; height: 55px;"></a>
 <a href ="https://x.com/KirubelEshetuTe" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/X.jpeg" alt="X logo" style="width: 50px; height: 50px;"></a>
 <a href = "https://www.youtube.com/@KirubelEshetuTefera" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Youtube_logo.png" alt="YouTube logo" style="width: 60px; height: 50px;"></a>
 
