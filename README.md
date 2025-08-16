@@ -38,13 +38,13 @@
 # 👨‍💻 Languages, Frameworks & Tools (Learnt so far)
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media_repo/blob/main/C%2B%2B_Logo.png" alt="C++ Logo" style="width: 60px; height: 60px;"></a>
-<a href="https://www.java.com/en/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media_repo/blob/main/java_Logo.png" alt="Java Logo" style="width: 60px; height: 60px;"></a>
-<a href="https://www.mysql.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media_repo/blob/main/MySQL_Logo.png" alt="MySQL Logo" style="width: 60px; height: 60px;"></a>
+<a href="https://www.java.com/en/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media_repo/blob/main/java_Logo.png" alt="Java Logo" style="width: 60px; height: 100px;"></a>
+<a href="https://www.mysql.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media_repo/blob/main/MySQL_Logo.png" alt="MySQL Logo" style="width: 100px; height: 60px;"></a>
 <a href="https://www.w3schools.com/html/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media_repo/blob/main/HTML_logo.png" alt="HTML Logo" style="width: 60px; height: 60px;"></a> 
 <a href="https://www.w3schools.com/Css/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media_repo/blob/main/CSS_logo.png" alt="CSS logo" style="width: 60px; height: 60px;"></a>
 <a href="https://getbootstrap.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media_repo/blob/main/Bootstrap-logo-edited.png" alt="Bootstrap-logo" style="width: 75px; height: 60px;"></a>
 <a href="https://www.w3schools.com/js/" target="_blank" referrerpolicy="no-referrer"><img src ="https://github.com/Kirubel-Eshetu/media_repo/blob/main/JavaScript-logo.png" alt="JavaScript Logo" style="width: 60px; height: 60px;" /></a>
-<a href="https://www.php.net/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media_repo/blob/main/php_logo.png" alt="php Logo" style="width: 60px; height: 60px"></a>
+<a href="https://www.php.net/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media_repo/blob/main/php_logo.png" alt="php Logo" style="width: 100px; height: 60px"></a>
 <a href="https://nodejs.org" target="_blank" referrerpolicy="no-referrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style = "width: 70px; height: 70px "/> </a>
 <a href="https://expressjs.com" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media_repo/blob/main/express%20logo.png" alt="express logo" style="width: 160px; height: 60px" /></a>
 <a href = "https://react.dev/" target="_blank" referrerpolicy="no-referrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt = "React Logo" style="width: 70px; height: 60px" /></a> 
