@@ -2,10 +2,8 @@
 
 <div align="center">
   <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/hello-world.svg" alt="Hello World" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/hi-there.svg" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=550&center=true&vCenter=true&width=9500&height=1200&duration=4000&lines=Hi+there+👋🏾;I'm+Kirubel+Eshetu+Tefera!;An+Emerging...;Designer+and+Developer+🫡"/>
 </div>
 
 - <img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hi, I’m Kirubel Eshetu Tefera. 
@@ -21,7 +19,7 @@
 <div align="center">
   <a href="https://t.me/KiraFix_tech" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/coder-matrix.gif" alt="Coding" width="100%" height="500px"></a>
 </div>
-<br>
+<br />
 <div align="center">
   <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Gospel.gif" alt="John 14:6" width="100%" height="500px">
 </div>
@@ -62,10 +60,10 @@
 <div align="center">
 <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/coder-day%26night.gif" width="100%" alt="Coding day and Night">
 </div>
-<br>
+<br />
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Kirubel-Eshetu.Kirubel-Eshetu" alt="visitors">
-<br>
+<br />
 <a width="100%" href="https://www.github.com/Kirubel-Eshetu" target="_blank" referrerpolicy="no-referrer"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirubel-Eshetu&bg_color=141321&color=fe428e&line=6da0a1&point=ae81ff&area_color=ae81ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph for Kirubel-Eshetu"/></a>
   
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirubel-Eshetu&theme=radical&hide_border=true)
@@ -84,7 +82,7 @@
 <div align="center"> 
 <a href="https://buymeacoffee.com/kirubeleshetu" target="_blank" referrerpolicy="no-referrer">
   <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Buy-me-a-coffee.jpg" alt="Buy me a coffee" style="width: 70%; height: 600px; border: none; display:block;">
-  <br>
+  <br />
 </a> 
 <a href="https://www.buymeacoffee.com/kirubeleshetu/">
   <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/buy-me-a-coffee-text.svg" alt="Buy me a coffee" />
