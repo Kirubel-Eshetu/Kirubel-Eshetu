@@ -1,9 +1,11 @@
-# 😊 Welcome 
-
-<img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/hello-world.svg" alt="Hello World" />
+# 😊 Welcome
 
 <div align="center">
-<img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/hi-there.svg" />
+  <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/hello-world.svg" alt="Hello World" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/hi-there.svg" />
 </div>
 
 - <img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hi, I’m Kirubel Eshetu Tefera. 
@@ -16,12 +18,12 @@
 - ⚡️ Fun fact about me 😁: I am very much into the military world.🎖 
 - 🗣 Lastly I would like to say "I am a very junior person in the tech-industry. I am trying my very best everyday, to be better than my yesterday." 🍀 
 
-<div align = "center">
+<div align="center">
   <a href="https://t.me/KiraFix_tech" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/coder-matrix.gif" alt="Coding" width="100%" height="500px"></a>
 </div>
 <br>
-<div align = "center">
-  <img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/Gospel.gif" alt = "John 14:6" width = "100%" height = "500px">
+<div align="center">
+  <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Gospel.gif" alt="John 14:6" width="100%" height="500px">
 </div>
 
 # 📫 Love to connect with you on
@@ -91,9 +93,9 @@
 
 # ✅ Help
 
- <img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px"> Hey there programmer, are you stuck with a programming concept and would like to get help?
-<div align = "center">
- <a href="https://x.com/KirubelEshetuTe/status/1936424706636214768"><img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/young-developer.png" alt = "Young Ethiopian Developer" width = "100%" height = "auto"></a>
+<img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px"> Hey there programmer, are you stuck with a programming concept and would like to get help?
+<div align="center">
+  <a href="https://x.com/KirubelEshetuTe/status/1936424706636214768"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/young-developer.png" alt="Young Ethiopian Developer" width="100%" height="auto"></a>
 </div>
 
 - Check out the Mozilla developer documentation <a href="https://developer.mozilla.org/en-US/" target="_blank" referrerpolicy="no-referrer"><img src="https://img.shields.io/badge/Mozilla-Docs-FF7139?logo=mozilla&logoColor=white" alt="Mozilla Developer Documentation" /></a> to try to locate your areas of struggle.
