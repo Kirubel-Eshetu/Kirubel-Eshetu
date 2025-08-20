@@ -63,20 +63,20 @@
 </div>
 <br />
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Kirubel-Eshetu.Kirubel-Eshetu/" alt="visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Kirubel-Eshetu.Kirubel-Eshetu" alt="visitors" />
 <br />
-<a width="100%" href="https://www.github.com/Kirubel-Eshetu/" target="_blank" referrerpolicy="no-referrer"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirubel-Eshetu&bg_color=141321&color=fe428e&line=6da0a1&point=ae81ff&area_color=ae81ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph/" alt="GitHub Commits Graph for Kirubel-Eshetu" /></a>
+<a width="100%" href="https://www.github.com/Kirubel-Eshetu/" target="_blank" referrerpolicy="no-referrer"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirubel-Eshetu&bg_color=141321&color=fe428e&line=6da0a1&point=ae81ff&area_color=ae81ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph for Kirubel-Eshetu" /></a>
   
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirubel-Eshetu&theme=radical&hide_border=true/)
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirubel-Eshetu&theme=radical&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirubel-Eshetu&theme=radical/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirubel-Eshetu&theme=radical)
 </div>
 
-<div align="center" style="width: 100%; display: flex; flex-direction: row; gap: 5px;"><a align= "center" href="https://github.com/Kirubel-Eshetu/" align="left" referrerpolicy="no-referrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirubel-Eshetu&langs_count=5&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20%Languages/" alt="Top Languages" /></a>
+<div align="center" style="width: 100%; display: flex; flex-direction: row; gap: 5px;"><a align= "center" href="https://github.com/Kirubel-Eshetu/" align="left" referrerpolicy="no-referrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirubel-Eshetu&langs_count=5&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kirubel-Eshetu&theme=radical/) 
+![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kirubel-Eshetu&theme=radical) 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kirubel-Eshetu&theme=radical/)](https://git.io/streak-stats/)</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kirubel-Eshetu&theme=radical)](https://git.io/streak-stats)</div>
 
 # 🙏🏾 Support 
 
