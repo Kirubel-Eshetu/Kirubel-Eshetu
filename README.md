@@ -6,15 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=550&center=true&vCenter=true&width=9500&height=1200&duration=4000&lines=Hi+there+👋🏾;I'm+Kirubel+Eshetu+Tefera!;An+Emerging...;Designer+and+Developer+🫡/" />
 </div>
 
-<img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hi, I’m Kirubel Eshetu Tefera. 
-✨ I am based in Addis Ababa, Ethiopia. 
-🌱 Currently learning Mongodb. 
-💞️ Looking to collaborate on web development. 
-🤝🏾 I am available for collaborations. Check out our community 💁🏾‍♂️ <a href="https://t.me/KiraFix_tech/" target="_blank" referrerpolicy="no-referrer"><img src="https://img.shields.io/badge/KiraFix💡-Telegram-2CA5E0?logo=telegram&logoColor=white/" alt="KiraFix_tech on Telegram" /></a>
-💻 Currently spending time on computers to improve my skills as a developer 📈
-⌨️ I would also love it if you invite me to typing competitions 🤼🤼 
-⚡️ Fun fact about me 😁: I am very much into Hacking 🟢👨🏾‍💻 and Military 🪖🎖️
-🗣 Lastly I would like to state that I am a very junior person in the tech-industry. I am trying my best everyday, to be better than my yesterday 🍀 
+<img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hi, I’m Kirubel Eshetu Tefera. <br />
+✨ I am based in Addis Ababa, Ethiopia. <br />
+🌱 Currently learning Mongodb. <br />
+💞️ Looking to collaborate on web development. <br />
+🤝🏾 I am available for collaborations. Check out our community 💁🏾‍♂️ <a href="https://t.me/KiraFix_tech/" target="_blank" referrerpolicy="no-referrer"><img src="https://img.shields.io/badge/KiraFix💡-Telegram-2CA5E0?logo=telegram&logoColor=white/" alt="KiraFix_tech on Telegram" /></a> <br />
+💻 Currently spending time on computers to improve my skills as a developer 📈 <br />
+⌨️ I would also love it if you invite me to typing competitions 🤼🤼 <br />
+⚡️ Fun fact about me 😁: I am very much into Hacking 🟢👨🏾‍💻 and Military 🪖🎖️ <br />
+🗣 I am a very junior person in the tech-industry. I am trying my best everyday, to be better than my yesterday 🍀 
 
 <div align="center">
   <a href="https://t.me/KiraFix_tech" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/coder-matrix.gif" alt="Coding" width="100%" height="500px" /></a>
