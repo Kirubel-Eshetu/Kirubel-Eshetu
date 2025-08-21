@@ -82,7 +82,7 @@
 
 <div align="center"> 
 <a href="https://buymeacoffee.com/kirubeleshetu/" target="_blank" referrerpolicy="no-referrer">
-  <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/buy-me-a-coffee-logo.png" alt="Buy me a coffee" style="width: 70%; height: 600px; border: none; display:block;" />
+  <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/buy-me-a-coffee-logo.png" alt="Buy me a coffee" />
   <br />
 </a> 
 <a href="https://www.buymeacoffee.com/kirubeleshetu/">
