@@ -6,15 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=550&center=true&vCenter=true&width=9500&height=1200&duration=4000&lines=Hi+there+👋🏾;I'm+Kirubel+Eshetu+Tefera!;An+Emerging...;Designer+and+Developer+🫡/" />
 </div>
 
-- <img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hi, I’m Kirubel Eshetu Tefera. 
-- ✨ I am based in Addis Ababa, Ethiopia. 
-- 🌱 Currently learning Mongodb. 
-- 💞️ Looking to collaborate on web development. 
-- 🤝🏾 I am available for collaborations. Check out our community 💁🏾‍♂️ <a href="https://t.me/KiraFix_tech/" target="_blank" referrerpolicy="no-referrer"><img src="https://img.shields.io/badge/KiraFix💡-Telegram-2CA5E0?logo=telegram&logoColor=white/" alt="KiraFix_tech on Telegram" /></a>
-- 💻 Currently spending time on computers to improve my skills as a developer 
-- I would also love it if you invite me to typing competitions 🤼🤼 
-- ⚡️ Fun fact about me 😁: I am very much into Hacking 🟢👨🏾‍💻 and Military 🪖🎖️
-- 🗣 Lastly I would like to state that I am a very junior person in the tech-industry. I am trying my best everyday, to be better than my yesterday 🍀 
+<img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hi, I’m Kirubel Eshetu Tefera. 
+✨ I am based in Addis Ababa, Ethiopia. 
+🌱 Currently learning Mongodb. 
+💞️ Looking to collaborate on web development. 
+🤝🏾 I am available for collaborations. Check out our community 💁🏾‍♂️ <a href="https://t.me/KiraFix_tech/" target="_blank" referrerpolicy="no-referrer"><img src="https://img.shields.io/badge/KiraFix💡-Telegram-2CA5E0?logo=telegram&logoColor=white/" alt="KiraFix_tech on Telegram" /></a>
+💻 Currently spending time on computers to improve my skills as a developer 📈
+⌨️ I would also love it if you invite me to typing competitions 🤼🤼 
+⚡️ Fun fact about me 😁: I am very much into Hacking 🟢👨🏾‍💻 and Military 🪖🎖️
+🗣 Lastly I would like to state that I am a very junior person in the tech-industry. I am trying my best everyday, to be better than my yesterday 🍀 
 
 <div align="center">
   <a href="https://t.me/KiraFix_tech" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/coder-matrix.gif" alt="Coding" width="100%" height="500px" /></a>
@@ -82,7 +82,7 @@
 
 <div align="center"> 
 <a href="https://buymeacoffee.com/kirubeleshetu/" target="_blank" referrerpolicy="no-referrer">
-  <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Buy-me-a-coffee.jpg" alt="Buy me a coffee" style="width: 70%; height: 600px; border: none; display:block;" />
+  <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/buy-me-a-coffee-logo.png" alt="Buy me a coffee" style="width: 70%; height: 600px; border: none; display:block;" />
   <br />
 </a> 
 <a href="https://www.buymeacoffee.com/kirubeleshetu/">
@@ -97,16 +97,16 @@
   <a href="https://x.com/KirubelEshetuTe/status/1936424706636214768/"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/young-developer.png" alt="Young Ethiopian Developer" width="100%" height="auto" /></a>
 </div>
 
-- Check out the Mozilla developer documentation <a href="https://developer.mozilla.org/en-US/" target="_blank" referrerpolicy="no-referrer"><img src="https://img.shields.io/badge/Mozilla-Docs-FF7139?logo=mozilla&logoColor=white/" alt="Mozilla Developer Documentation" /></a> to try to locate your areas of struggle.
+💡 Check out the Mozilla developer documentation <a href="https://developer.mozilla.org/en-US/" target="_blank" referrerpolicy="no-referrer"><img src="https://img.shields.io/badge/Mozilla-Docs-FF7139?logo=mozilla&logoColor=white/" alt="Mozilla Developer Documentation" /></a> to try to locate your areas of struggle.
 
 # 🔚 The End
 
-- You have made it this far 🛣️🎉, I believe you aspire to achieve many good deeds 💯
-- Wish you all the very best, May God be with you on your way 🤗🌠
-- And thanks for being here 🙏🏾
+🛣️ Wow, you have made it this far 🎉🎊🥳
+🥹 I believe you aspire and achieve many good deeds 💯
+🤞🏾 Wish you all the very best, May God be with you on your way 🤗🌠
+❤️ And thanks for being here 🙏🏾
 
 <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Thanks.png" alt="Robot thanking" />
-
 
 
 <!---
