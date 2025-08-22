@@ -38,7 +38,7 @@
 
 <a href="https://www.bloodshed.net/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/dev-C%2B%2B-Logo.png" alt="Dev C++ Logo" style="width: 60px; height: 60px;" /></a>
 <a href="https://www.codeblocks.org/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/code-blocks.webp" alt="CodeBlocks Logo" style="width: 60px; height: 60px;" /></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/C%2B%2B-logo.png" alt="C ++ Logo" style="width: 60px; height: 60px;"></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/C%2B%2B-logo.png" alt="C++ Logo" style="width: 60px; height: 60px;"></a>
 <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/net-beans.png" style="width: 60px; height: 60px" /></a>
 <a href="https://www.java.com/en/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/java-Logo.png" alt="Java Logo" style="width: 60px; height: 100px;" /></a>
 <a href="https://www.mysql.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/MySQL_logo.png" alt="MySQL Logo" style="width: 100px; height: 60px;" /></a>
@@ -49,12 +49,18 @@
 <a href="https://getbootstrap.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Bootstrap-logo.png" alt="Bootstrap-logo" style="width: 75px; height: 60px;"></a>
 <a href="https://www.w3schools.com/js/" target="_blank" referrerpolicy="no-referrer"><img src ="https://github.com/Kirubel-Eshetu/media-repo/blob/main/JS-logo.png" alt="JavaScript Logo" style="width: 60px; height: 60px;" /></a>
 <a href="https://www.php.net/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/php_logo.png" alt="php Logo" style="width: 100px; height: 60px" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/postman-logo.svg" alt="PostMan app" style="width: 60px; height: 60px" /></a>
+<a href="https://jquery.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/JQuery-Logo.svg" alt="jQuery Logo" style="width: 200px; height: 60px" /></a>
 <a href="https://nodejs.org/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/nodejs-logo.svg" alt="nodejs" style = "width: 70px; height: 70px" /> </a>
-<a href="https://expressjs.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/express-logo.png" alt="express logo" style="width: 125px; height: 60px" /></a>
+<a href="https://expressjs.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/express-logo.png" alt="express logo" style="width: 150px; height: 60px" /></a>
+<a href="https://ejs.co/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/EJS-logo.png" alt="EJS logo" style="width: 60px; height: 60px" /></a>
 <a href = "https://git-scm.com/" target = "_blank" rel="noreferrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/git-logo.svg" alt = "Git Logo" style="width: 60px; height: 60px" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/postman-logo.svg" alt="PostMan app" style="width: 60px; height: 60px" /></a>
 <a href="https://react.dev/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/react-logo.svg" alt = "React Logo" style="width: 70px; height: 60px" /></a> 
+<a href="https://www.mongodb.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/mongo-db-logo.png" alt="MongoDB Logo" style="width: 200px; height: 60px" /></a>
 <a href="https://cursor.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/cursor-logo.webp" alt="React Logo" style="width: 60px; height: 60px" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/typescript-logo.png" alt="TypeScript Logo" style="width: 60px; height: 60px" /></a>
+<a href="https://nextjs.org/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Next.js-logo.png" alt="Nextjs Logo" style="width: 60px; height: 60px" /></a>
+<a href="https://tailwindcss.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Tailwind-CSS-Logo.png" alt="Tailwind CSS Logo" style="width: 60px; height: 60px" /></a>
 
 # 📈 Stats for my GitHub
 
@@ -101,9 +107,9 @@
 
 # 🔚 The End
 
-🛣️ Wow, you have made it this far 🎉🎊🥳
-🥹 I believe you aspire and achieve many good deeds 💯
-🤞🏾 Wish you all the very best, May God be with you on your way 🤗🌠
+🛣️ Wow, you have made it this far 🎉🎊🥳 <br />
+🥹 I believe you aspire and achieve many good deeds 💯 <br />
+🤞🏾 Wish you all the very best, May God be with you on your way 🤗🌠 <br />
 ❤️ And thanks for being here 🙏🏾
 
 <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Thanks.png" alt="Robot thanking" />
