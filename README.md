@@ -81,7 +81,9 @@
 <div align="center">
 <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/coder-day%26night.gif" width="100%" alt="Coding day and Night" />
 </div>
+
 <br />
+
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Kirubel-Eshetu.Kirubel-Eshetu" alt="visitors" />
 <br />
