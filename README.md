@@ -41,26 +41,20 @@
 <a href="https://www.w3schools.com/Css/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/CSS-logo.png" alt="CSS logo" style="width: 60px; height: 60px;" /></a>
 <a href="https://www.bloodshed.net/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/dev-C%2B%2B-Logo.png" alt="Dev C++ Logo" style="width: 60px; height: 60px;" /></a>
 <a href="https://www.codeblocks.org/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/code-blocks.webp" alt="CodeBlocks Logo" style="width: 60px; height: 60px;" /></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/C%2B%2B-logo.png" alt="C++ Logo" style="width: 60px; height: 60px;"></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/C%2B%2B-logo.png" alt="C++ Logo" style="width: 60px; height: 60px;" /></a>
 <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/net-beans.png" alt="Netbeans Logo" style="width: 60px; height: 60px" /></a>
 <a href="https://www.java.com/en/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/java-Logo.png" alt="Java Logo" style="width: 60px; height: 100px;" /></a>
-<<<<<<< HEAD
 <a href="https://www.apachefriends.org/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/XAMPP_Logo.png" alt="Xampp Logo" style="width: 60px; height="60px" /></a>
 <a href="https://www.mysql.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/MySQL_logo.png" alt="MySQL Logo" style="width: 100px; height: 60px;" /></a>
-<a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Cisco-Packet-Tracer-Logo.webp" alt="Cisco Packet Tracer Logo" style="width: 60px; height="60px"></a>
-=======
-<a href="https://www.apachefriends.org/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/XAMPP_Logo.png" alt="Xampp Logo" style="width: 60px"; height="60px">
-<a href="https://www.mysql.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/MySQL_logo.png" alt="MySQL Logo" style="width: 100px; height: 60px;" /></a>
-<a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Cisco-Packet-Tracer-Logo.webp" alt="Cisco Packet Tracer Logo"></a>
->>>>>>> 39c17d0d4fc2caddeb1630057e5277a61cd571bb
+<a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Cisco-Packet-Tracer-Logo.webp" alt="Cisco Packet Tracer Logo" style="width: 60px; height: 60px" /></a>
 <a href="https://code.visualstudio.com/download" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/vs_code_logo.png" alt="Visual Studio Code Logo" style="width: 60px; height: 60px;" /></a>
 <a href="https://www.geeksforgeeks.org/electronics-engineering/embedded-c/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/embeded-c-logo.png" alt="Embedded C Logo" style="width: 60px; height: 60px;" /></a>
-<a href="https://keil-vision.software.informer.com/download/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Keli-uVision-Logo.png" alt="Keli uVision Logo" style="width: 60px; height: 60px;"></a>
-<a href="https://proteus.freedownloadscenter.com/windows/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/proteus-software.png" alt="Proteus Logo" style="width: 150px; height: 60px;"></a>
-<a href="https://www.drawio.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/drawio-logo.png" alt="Drawio Logo" style="width: 60px; height: 60px;"></a>
-<a href="https://developer.android.com/studio" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Android_Studio_logo.png" alt="Andriod Studio Logo" style="width: 60px; height: 60px;"></a>
-<a href="https://www.w3schools.com/xml/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/xml-logo.svg" alt="XML Logo" style="width: 60px; height: 60px;"></a>
-<a href="https://getbootstrap.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Bootstrap-logo.png" alt="Bootstrap-logo" style="width: 75px; height: 60px;"></a>
+<a href="https://keil-vision.software.informer.com/download/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Keli-uVision-Logo.png" alt="Keli uVision Logo" style="width: 60px; height: 60px;" /></a>
+<a href="https://proteus.freedownloadscenter.com/windows/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/proteus-software.png" alt="Proteus Logo" style="width: 150px; height: 60px;" /></a>
+<a href="https://www.drawio.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/drawio-logo.png" alt="Drawio Logo" style="width: 60px; height: 60px;" /></a>
+<a href="https://developer.android.com/studio" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Android_Studio_logo.png" alt="Andriod Studio Logo" style="width: 60px; height: 60px;" /></a>
+<a href="https://www.w3schools.com/xml/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/xml-logo.svg" alt="XML Logo" style="width: 60px; height: 60px;" /></a>
+<a href="https://getbootstrap.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Bootstrap-logo.png" alt="Bootstrap-logo" style="width: 75px; height: 60px;" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank" referrerpolicy="no-referrer"><img src ="https://github.com/Kirubel-Eshetu/media-repo/blob/main/JS-logo.png" alt="JavaScript Logo" style="width: 60px; height: 60px;" /></a>
 <a href="https://www.php.net/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/php_logo.png" alt="php Logo" style="width: 100px; height: 60px" /></a>
 <a href="https://jquery.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/JQuery-Logo.svg" alt="jQuery Logo" style="width: 200px; height: 60px" /></a>
@@ -81,9 +75,7 @@
 <div align="center">
 <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/coder-day%26night.gif" width="100%" alt="Coding day and Night" />
 </div>
-
 <br />
-
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Kirubel-Eshetu.Kirubel-Eshetu" alt="visitors" />
 <br />
