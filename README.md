@@ -6,10 +6,10 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=550&center=true&vCenter=true&width=9500&height=1200&duration=4000&lines=ሰላም+ይብዛላችሁ+👋🏾;ኪሩቤል+እሸቱ+ተፈራ+እባላለሁ+✈️;ጀማሪ+🔰;ፕሮግራመር+👨🏾‍💻+እና+ዲዛይነር+🎨" />
 </div>
 
-<img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hi, I’m Kirubel Eshetu Tefera. A Junior programmer and designer 👨🏾‍💻🖌️ <br />
-✨ I am based in Addis Ababa, Ethiopia. <br />
-🌱 Currently learning Mongodb. <br />
-💞️ Looking to collaborate on web development. <br />
+<img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hi, I’m Kirubel Eshetu Tefera, A Junior programmer and designer 👨🏾‍💻🖌️ <br />
+📍 I am based in Addis Ababa, Ethiopia ✨ <br />
+🌱 Currently learning MongoDB 🗄 <br />
+💞️ Looking to collaborate on web development 🌐 <br />
 🤝🏾 I am available for collaborations. Check out our community 💁🏾‍♂️ <a href="https://t.me/KiraFix_tech/" target="_blank" referrerpolicy="no-referrer"><img src="https://img.shields.io/badge/KiraFix💡-Telegram-2CA5E0?logo=telegram&logoColor=white" alt="KiraFix_tech on Telegram" /></a> <br />
 💻 Currently spending time on computers to improve my skills as a developer 📈 <br />
 ⌨️ I would also love it if you invite me to typing competitions 🤼🤼 <br />
