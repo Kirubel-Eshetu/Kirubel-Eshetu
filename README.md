@@ -3,10 +3,10 @@
 <div align="center">
   <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/hello-world.svg" alt="Hello World" />
   <br />
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=550&center=true&vCenter=true&width=9500&height=1200&duration=4000&lines=ሰላም+ይብዛላችሁ+👋🏾;ኪሩቤል+እሸቱ+ተፈራ+እባላለሁ+✈️;ጀማሪ+🔰;ዲዛይነር+🎨+እና+ፕሮግራመር+👨🏾‍💻" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=550&center=true&vCenter=true&width=9500&height=1200&duration=4000&lines=ሰላም+ይብዛላችሁ+👋🏾;ኪሩቤል+እሸቱ+ተፈራ+እባላለሁ+✈️;ጀማሪ+🔰;ፕሮግራመር+👨🏾‍💻+እና+ዲዛይነር+🎨" />
 </div>
 
-<img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hi, I’m Kirubel Eshetu Tefera. A junior designer and developer 🖌️👨🏾‍💻 <br />
+<img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hi, I’m Kirubel Eshetu Tefera. A Junior programmer and designer 👨🏾‍💻🖌️ <br />
 ✨ I am based in Addis Ababa, Ethiopia. <br />
 🌱 Currently learning Mongodb. <br />
 💞️ Looking to collaborate on web development. <br />
