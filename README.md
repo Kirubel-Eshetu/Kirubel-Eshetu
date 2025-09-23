@@ -34,7 +34,7 @@
 <a href ="https://x.com/KirubelEshetuTe/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/x.jpeg" alt="X logo" style="width: 50px; height: 50px;" /></a>
 <a href = "https://www.youtube.com/@KirubelEshetuTefera/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/youtube-logo.png" alt="YouTube logo" style="width: 60px; height: 50px;" /></a>
 
-# 👨‍💻 Languages, Frameworks & Tools (Learnt so far)
+# 👨🏾‍💻 Languages, Frameworks & Tools (Learnt so far)
 
 <a href="https://notepad-plus-plus.org/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/notepad%2B%2B-logo.png" alt="Notepad ++ logo" style="width:75px; height: 60px" /></a>
 <a href="https://www.w3schools.com/html/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/HTML-logo.png" alt="HTML Logo" style="width: 60px; height: 60px;" /></a> 
