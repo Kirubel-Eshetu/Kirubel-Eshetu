@@ -28,10 +28,11 @@
 
 <a href = "mailto: kirubelwinner@gmail.com" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/email.png" alt = "Email Icon" style="width: 50px; height: 50px;" /></a> 
 <a href = "https://discord.com/users/1146506216084865065/" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/Discord-Logo.webp" alt = "Discord Logo" style="width: 50px; height: 50px;" /></a>
-<a href = "https://facebook.com/KirubelEshetuTefera" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/Facebook.png" alt = "Discord Logo" style="width: 50px; height: 50px;" /></a>
+<a href = "https://facebook.com/KirubelEshetuTefera" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/Facebook.png" alt = "Facebook Logo" style="width: 50px; height: 50px;" /></a>
+<a href = "https://instagram.com/elkirubeleshetu" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/instagram-logo.webp" alt = "Instagram Logo" style="width: 50px; height: 50px;" /></a>
 <a href ="https://www.linkedin.com/in/kirubel-eshetu-tefera/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Linkedln.png" alt = "LinkedIn icon" style="width: 45px; height: 45px;" /></a>
+<a href ="https://www.reddit.com/user/KirubelEshetuTefera/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/reddit-logo.png" alt = "Reddit icon" style="width: 50px; height: 50px;" /></a> 
 <a href ="https://t.me/KiraFix_tech/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/telegram-logo.png" alt = "Telegram icon" style="width: 50px; height: 50px;" /></a> 
-<a href ="https://www.tiktok.com/@kirubeleshetutefera/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/tiktok_logo.png" alt="TikTok Logo" style="width: 55px; height: 55px;" /></a>
 <a href ="https://x.com/KirubelEshetuTe/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/x.jpeg" alt="X logo" style="width: 50px; height: 50px;" /></a>
 <a href = "https://www.youtube.com/@KirubelEshetuTefera/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/youtube-logo.png" alt="YouTube logo" style="width: 60px; height: 50px;" /></a>
 
