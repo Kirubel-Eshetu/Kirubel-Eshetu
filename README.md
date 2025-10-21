@@ -71,6 +71,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/typescript-logo.png" alt="TypeScript Logo" style="width: 60px; height: 60px" /></a>
 <a href="https://nextjs.org/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Next.js-logo.png" alt="Nextjs Logo" style="width: 60px; height: 60px" /></a>
 <a href="https://tailwindcss.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Tailwind-CSS-Logo.png" alt="Tailwind CSS Logo" style="width: 85px; height: 60px" /></a>
+<a href="https://bitvise.com/ssh-client-download" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/bitvise-ssh-client-logo.jpg" alt="Bitvise SSH Client logo" style="width: 60px; height: 60px" /></a>
+<a href="https://www.rabbitmq.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/rabbit-mq-logo.svg" alt="Tailwind CSS Logo" style="width: 60px; height: 60px" /></a>
 
 # 📈 Stats for my GitHub
 
