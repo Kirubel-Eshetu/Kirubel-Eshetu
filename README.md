@@ -26,6 +26,8 @@
 
 # 📫 Love to connect with you on
 
+<a href = "https://leetcode.com/u/KirubelEshetu/" target="_blank" referrerpolicy="no-referrer"><img src="github.com/Kirubel-Eshetu/media-repo/blob/main/Leet-code-transparent.png" alt="Leet Code Logo" style="width:50px; height: 50px" /></a>
+<a href = "https://codeforces.com/profile/KirubelEshetu/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Code-Forces-Logo.png" alt="CodeForces Logo" style="width:200px; height: 50px;" /></a>
 <a href = "mailto: kirubelwinner@gmail.com" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/email.png" alt = "Email Icon" style="width: 50px; height: 50px;" /></a> 
 <a href = "https://discord.com/users/1146506216084865065/" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/Discord-Logo.webp" alt = "Discord Logo" style="width: 50px; height: 50px;" /></a>
 <a href = "https://facebook.com/KirubelEshetuTefera" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/Facebook.png" alt = "Facebook Logo" style="width: 50px; height: 50px;" /></a>
@@ -72,7 +74,8 @@
 <a href="https://nextjs.org/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Next.js-logo.png" alt="Nextjs Logo" style="width: 60px; height: 60px" /></a>
 <a href="https://tailwindcss.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Tailwind-CSS-Logo.png" alt="Tailwind CSS Logo" style="width: 85px; height: 60px" /></a>
 <a href="https://bitvise.com/ssh-client-download" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/bitvise-ssh-client-logo.jpg" alt="Bitvise SSH Client logo" style="width: 60px; height: 60px" /></a>
-<a href="https://www.rabbitmq.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/rabbit-mq-logo.svg" alt="Tailwind CSS Logo" style="width: 60px; height: 60px" /></a>
+<a href="https://www.rabbitmq.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/rabbit-mq-logo.svg" alt="RabbitMQ Logo" style="width: 60px; height: 60px" /></a>
+<a href="https://mobaxterm.mobatek.net/download.html" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/MobaXterm-Logo.png" alt="MobaXterm Logo" style="width: 60px; height: 60px" /></a>
 
 # 📈 Stats for my GitHub
 
