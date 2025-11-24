@@ -8,7 +8,7 @@
 
 <img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hi, I’m Kirubel Eshetu Tefera, A Junior programmer and designer 👨🏾‍💻🖌️ <br />
 📍 I am based in Addis Ababa, Ethiopia ✨ <br />
-🌱 Currently learning React 😎<br />
+🌱 Currently learning Python Basics 😎<br />
 💞️ Looking to collaborate on web development 🌐 <br />
 🤝🏾 I am available for collaborations. Check out our community 💁🏾‍♂️ <a href="https://t.me/KiraFix_tech/" target="_blank" referrerpolicy="no-referrer"><img src="https://img.shields.io/badge/KiraFix💡-Telegram-2CA5E0?logo=telegram&logoColor=white" alt="KiraFix_tech on Telegram" /></a> <br />
 💻 Currently spending time on computers to improve my skills as a developer 📈 <br />
