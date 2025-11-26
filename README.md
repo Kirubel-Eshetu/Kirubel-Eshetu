@@ -76,7 +76,7 @@
 <a href="https://bitvise.com/ssh-client-download" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/bitvise-ssh-client-logo.jpg" alt="Bitvise SSH Client logo" style="width: 60px; height: 60px" /></a>
 <a href="https://www.rabbitmq.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/rabbit-mq-logo.svg" alt="RabbitMQ Logo" style="width: 60px; height: 60px" /></a>
 <a href="https://mobaxterm.mobatek.net/download.html" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/MobaXterm-Logo.png" alt="MobaXterm Logo" style="width: 60px; height: 60px" /></a>
-<a href="https://www.python.org" target="_blank" referrerpolicy="no-referrer"><img src="" alt="Python Logo" style="width:60px; height: 60px"/></a>
+<a href="https://www.python.org" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/Python-logo.png" alt="Python Logo" style="width:60px; height: 60px"/></a>
 
 # 📈 Stats for my GitHub
 
