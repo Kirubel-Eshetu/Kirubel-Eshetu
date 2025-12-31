@@ -107,7 +107,7 @@
 <a href="https://www.jami.bio/Kirubel-Eshetu" target="_blank" referrerpolicy="no-referrer">
 <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/jami-logo.png" alt="Leave a Tip with jami" />
 <img src = "https://github.com/Kirubel-Eshetu/media-repo/blob/main/tip-with-jami.svg" alt = "Tip with jami">
-</a>
+</a> <br />
 
 <a href="https://buymeacoffee.com/kirubeleshetu/" target="_blank" referrerpolicy="no-referrer">
   <img src="https://github.com/Kirubel-Eshetu/media-repo/blob/main/buy-me-a-coffee-logo.png" alt="Buy me a coffee" /><br />
