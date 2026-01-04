@@ -16,7 +16,7 @@
 🗣 A very junior person in the tech-industry, trying my best to become better 🍀
 
 <div align="center">
-  <a href="https://t.me/KiraFix_tech" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/coder-matrix.gif" alt="Coding" width="100%" height="500px" /></a>
+  <a href="https://t.me/KiraFix_tech" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/1-welcome/coder-matrix.gif" alt="Coding" width="100%" height="500px" /></a>
 </div>
 <br />
 <div align="center">
@@ -47,7 +47,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/3-learnt-so-far/C%2B%2B-logo.png" alt="C++ Logo" style="width: 60px; height: 60px;" /></a>
 <a href="https://netbeans.apache.org/front/main/3-learnt-so-far/index.html" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/3-learnt-so-far/net-beans.png" alt="Netbeans Logo" style="width: 60px; height: 60px" /></a>
 <a href="https://www.java.com/en/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/3-learnt-so-far/java-Logo.png" alt="Java Logo" style="width: 60px; height: 100px;" /></a>
-<a href="https://www.apachefriends.org/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/3-learnt-so-far/XAMPP_Logo.png" alt="Xampp Logo" style="width: 60px; height: 60px" /></a>
+<a href="https://www.apachefriends.org/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/3-learnt-so-far/XAMPP-Logo.png" alt="Xampp Logo" style="width: 60px; height: 60px" /></a>
 <a href="https://www.mysql.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/3-learnt-so-far/MySQL_logo.png" alt="MySQL Logo" style="width: 100px; height: 60px;" /></a>
 <a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/3-learnt-so-far/Cisco-Packet-Tracer-Logo.webp" alt="Cisco Packet Tracer Logo" style="width: 60px; height: 60px" /></a>
 <a href="https://code.visualstudio.com/download" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/3-learnt-so-far/vs_code_logo.png" alt="Visual Studio Code Logo" style="width: 60px; height: 60px;" /></a>
@@ -105,7 +105,7 @@
 <div align="center"> 
 <a href="https://www.jami.bio/Kirubel-Eshetu" target="_blank" referrerpolicy="no-referrer">
 <img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/5-support/jami-logo.png" alt="Leave a Tip with jami" />
-<img src = "https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/tip-with-jami.svg" alt = "Tip with jami">
+<img src = "https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/5-support/tip-with-jami.svg" alt = "Tip with jami">
 </a> <br />
 
 <a href="https://buymeacoffee.com/kirubeleshetu/" target="_blank" referrerpolicy="no-referrer">
@@ -117,7 +117,7 @@
 
 # ✅ Help
 
-<img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/6-help/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hey there programmer, are you stuck with a programming concept and would like to get help?
+<img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/1-welcome/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hey there programmer, are you stuck with a programming concept and would like to get help?
 
 <div align="center">
   <a href="https://x.com/KirubelEshetuTe/status/1936424706636214768/"><img src="https://github.com/Kirubel-Eshetu/Kirubel-Eshetu/blob/main/6-help/young-developer.png" alt="Young Ethiopian Developer" width="100%" height="auto" /></a>
