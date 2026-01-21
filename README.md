@@ -89,7 +89,7 @@
   
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirubel-Eshetu&theme=radical&hide_border=true)
 
-![Kirubel's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Kriubel-Eshetu&show_icons=true&theme=radical)
+![Kirubel's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Kirubel-Eshetu&show_icons=true&theme=radical)
 
 </div>
 
