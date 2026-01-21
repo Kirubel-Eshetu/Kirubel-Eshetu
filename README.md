@@ -89,16 +89,9 @@
   
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirubel-Eshetu&theme=radical&hide_border=true)
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirubel-Eshetu&theme=radical) -->
+![Kirubel's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Kriubel-Eshetu&show_icons=true&theme=radical)
 
 </div>
-
-<!-- <div align="center" style="width: 100%; display: flex; flex-direction: row; gap: 5px;"> 
-<a align= "center" href="https://github.com/Kirubel-Eshetu/" align="left" referrerpolicy="no-referrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirubel-Eshetu&langs_count=10&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kirubel-Eshetu&theme=radical) 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kirubel-Eshetu&theme=radical)](https://git.io/streak-stats)</div> -->
 
 # 🙏🏾 Support
 
