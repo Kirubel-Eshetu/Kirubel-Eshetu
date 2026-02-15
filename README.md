@@ -3,10 +3,10 @@
 <div align="center">
   <img src="https://github.com/KryptonScript/KryptonScript/blob/main/1-welcome/hello-world.svg" alt="Hello World" />
   <br />
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=550&center=true&vCenter=true&width=9500&height=1200&duration=4000&lines=ሰላም+ይብዛላችሁ+👋🏾;ኪሩቤል+እሸቱ+ተፈራ+እባላለሁ+✈️;ጀማሪ+🔰;ፕሮግራመር+👨🏾‍💻+እና+ዲዛይነር+🎨" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=550&center=true&vCenter=true&width=9500&height=1200&duration=4000&lines=ሰላም+ይብዛላችሁ+👋🏾;ኪሩቤል+እባላለሁ+✈️;ጀማሪ+🔰;ፕሮግራመር+👨🏾‍💻+እና+ዲዛይነር+🎨" />
 </div>
 
-<img src = "https://github.com/KryptonScript/KryptonScript/blob/main/1-welcome/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hi, Kirubel Eshetu Tefera here, A Junior programmer and designer 👨🏾‍💻🖌️, trying things to become better 🍀<br />
+<img src = "https://github.com/KryptonScript/KryptonScript/blob/main/1-welcome/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hi, Kirubel here, A Junior programmer and designer 👨🏾‍💻🖌️, trying things to become better 🍀<br />
 📍 Based in Addis Ababa, Ethiopia ✨ <br />
 🌱 Currently thinking of making frontend web applications for small corporates 🔥<br />
 💞️ Looking to collaborate on web development 🌐 <br />
@@ -29,12 +29,11 @@
 <a href = "mailto: kirubelwinner@gmail.com" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/email.png" alt = "Email Icon" style="width: 50px; height: 50px;" /></a>
 <a href = "https://discord.com/users/1146506216084865065/" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/Discord-Logo.webp" alt = "Discord Logo" style="width: 50px; height: 50px;" /></a>
 <a href = "https://facebook.com/KirubelEshetuTefera" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/Facebook.png" alt = "Facebook Logo" style="width: 50px; height: 50px;" /></a>
-<a href = "https://instagram.com/elkirubeleshetu" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/instagram-logo.webp" alt = "Instagram Logo" style="width: 50px; height: 50px;" /></a>
-<a href ="https://www.linkedin.com/in/KryptonScript-tefera/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/Linkedln.png" alt = "LinkedIn icon" style="width: 45px; height: 45px;" /></a>
-<a href ="https://www.reddit.com/user/KirubelEshetuTefera/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/reddit-logo.png" alt = "Reddit icon" style="width: 50px; height: 50px;" /></a>
-<a href ="https://t.me/KiraFix_tech/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/telegram-logo.png" alt = "Telegram icon" style="width: 50px; height: 50px;" /></a>
-<a href ="https://x.com/KirubelEshetuTe/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/x.jpeg" alt="X logo" style="width: 50px; height: 50px;" /></a>
-<a href = "https://www.youtube.com/@KirubelEshetuTefera/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/youtube-logo.png" alt="YouTube logo" style="width: 60px; height: 50px;" /></a>
+<a href = "https://instagram.com/kryptonscript" target="_blank" referrerpolicy="no-referrer"><img src = "https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/instagram-logo.webp" alt = "Instagram Logo" style="width: 50px; height: 50px;" /></a>
+<a href ="https://www.linkedin.com/in/kirubel-eshetu-tefera/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/Linkedln.png" alt = "LinkedIn icon" style="width: 45px; height: 45px;" /></a>
+<a href ="https://t.me/KryptonScript/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/telegram-logo.png" alt = "Telegram icon" style="width: 50px; height: 50px;" /></a>
+<a href ="https://x.com/KryptonScript/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/x.jpeg" alt="X logo" style="width: 50px; height: 50px;" /></a>
+<a href = "https://www.youtube.com/@KryptonScript/" target="_blank" referrerpolicy="no-referrer"><img src="https://github.com/KryptonScript/KryptonScript/blob/main/2-connect/youtube-logo.png" alt="YouTube logo" style="width: 60px; height: 50px;" /></a>
 
 # 👨🏾‍💻 Languages, Frameworks & Tools (Learnt so far)
 
@@ -89,7 +88,7 @@
   
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KryptonScript&theme=radical&hide_border=true)
 
-![Kirubel's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=KryptonScript&show_icons=true&theme=radical)
+![Krypton's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=KryptonScript&show_icons=true&theme=radical)
 
 </div>
 
@@ -113,7 +112,7 @@
 <img src="https://github.com/KryptonScript/KryptonScript/blob/main/1-welcome/waving-hand-black.gif" alt="Black waving hand" width="20px" height="20px" /> Hey there programmer, are you stuck with a programming concept and would like to get help?
 
 <div align="center">
-  <a href="https://x.com/KirubelEshetuTe/status/1936424706636214768/"><img src="https://github.com/KryptonScript/KryptonScript/blob/main/6-help/young-developer.png" alt="Young Ethiopian Developer" width="100%" height="auto" /></a>
+  <a href="https://x.com/KryptonScript/status/1936424706636214768/"><img src="https://github.com/KryptonScript/KryptonScript/blob/main/6-help/young-developer.png" alt="Young Ethiopian Developer" width="100%" height="auto" /></a>
 </div>
 
 💡 Check out the Mozilla developer documentation <a href="https://developer.mozilla.org/en-US/" target="_blank" referrerpolicy="no-referrer"><img src="https://img.shields.io/badge/Mozilla-Docs-FF7139?logo=mozilla&logoColor=white/" alt="Mozilla Developer Documentation" /></a> to try to locate your areas of struggle.
